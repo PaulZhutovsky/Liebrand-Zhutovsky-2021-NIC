@@ -1,1 +1,1 @@
-# Liebrand-Zhutovsky-2021-NIC
+Code for Liebrand*, Zhutovsky*, et al. (2021). Deep brain stimulation response in obsessive–compulsive disorder is associated with preoperative nucleus accumbens volume. _NeuroImage: Clinical, 30_, 102640. https://doi.org/10.1016/j.nicl.2021.102640
